@@ -26,3 +26,6 @@ usethis::use_travis()
 # sets up testing infrastructure
 library(testthat)
 usethis::use_testthat()
+
+# test 
+data("mtcars")
