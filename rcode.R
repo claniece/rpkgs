@@ -29,3 +29,8 @@ usethis::use_testthat()
 
 # test 
 data("mtcars")
+
+# 4- build and install
+?rpkgs
+rpkgs::
+  pacman::p_functions(rpkgs)
