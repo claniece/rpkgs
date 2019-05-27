@@ -39,4 +39,4 @@ devtools::document
 
 # 6 - data
 
-
+usethis::use_data_raw()
