@@ -36,3 +36,7 @@ rpkgs::
   pacman::p_functions(rpkgs)
 
 devtools::document
+
+# 6 - data
+
+
