@@ -34,3 +34,5 @@ data("mtcars")
 ?rpkgs
 rpkgs::
   pacman::p_functions(rpkgs)
+
+devtools::document
