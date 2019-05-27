@@ -2,6 +2,8 @@ Package: rpkgs
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Imports: lme4, sjPlot
+Depends: 
+    R (>= 2.10)
 Authors@R: 
     person(given = "First",
            family = "Last",
